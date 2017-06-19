@@ -33,3 +33,18 @@ div.paragraph {
 a:hover, a:visited, a:link, a:active {
     text-decoration: none;
 }
+
+.carouselImage {
+  width: auto;
+  height: 300px;
+  max-height: 300px;
+  border-radius: 10%;
+}
+
+#me {
+  border-radius: 50%;
+}
+
+hr {
+  background-color: white;
+}
