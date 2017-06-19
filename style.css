@@ -1,0 +1,35 @@
+.jumbotron {
+  background-color: #EC971F;
+  margin-bottom: 0;
+  font-family: 'Lobster', cursive;
+}
+
+.jumbotron p {
+  font-family: 'Raleway', sans-serif;
+}
+
+body {
+  background:  url('dawn.gif');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+h1 {
+    font-family: 'Lobster', cursive;
+    color: white;
+}
+
+div.paragraph {
+  font-family: 'Raleway', sans-serif;
+  color: white;
+  font-size: 14px;
+  border-style: double;
+  border-color: white;
+  padding: 2em;
+}
+
+a:hover, a:visited, a:link, a:active {
+    text-decoration: none;
+}
