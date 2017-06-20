@@ -48,3 +48,20 @@ a:hover, a:visited, a:link, a:active {
 hr {
   background-color: white;
 }
+
+.icons img {
+  width: auto;
+  height: 125px;
+  max-height: 125px;
+}
+
+.icons {
+  width: auto;
+  height: 150px;
+}
+
+.connect img {
+  width: auto;
+  height: 125px;
+  max-height: 125px;
+}
