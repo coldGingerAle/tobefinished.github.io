@@ -28,6 +28,8 @@ div.paragraph {
   border-style: double;
   border-color: white;
   padding: 2em;
+  height: 300px;
+  max-height: 300px;
 }
 
 a:hover, a:visited, a:link, a:active {
@@ -56,12 +58,22 @@ hr {
 }
 
 .icons {
-  width: auto;
-  height: 150px;
+  margin: 0 auto;
+  width: 80%;
+  height: 300px;
+  max-height: 300px;
 }
 
 .connect img {
   width: auto;
   height: 125px;
   max-height: 125px;
+}
+
+.footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
 }
